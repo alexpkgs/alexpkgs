@@ -4,9 +4,9 @@
 </a>
 
 
-![Stats](https://readme-stats-git-main-atmois-projects.vercel.app/api?username=Atmois&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=stars)
+![Stats](https://readme-stats-git-main-alexzsk-projects.vercel.app/api?username=Atmois&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=stars)
 
-![Langs](https://readme-stats-git-main-atmois-projects.vercel.app/api/top-langs/?username=atmois&count_weight=0.5&exclude_repo=readme-stats,OldWebsite&theme=tokyonight&layout=pie)
+![Langs](https://readme-stats-git-main-alexzsk-projects.vercel.app/api/top-langs/?username=alexzsk&count_weight=0.5&exclude_repo=readme-stats,OldWebsite&theme=tokyonight&layout=pie)
 
 <hr>
 
