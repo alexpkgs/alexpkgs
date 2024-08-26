@@ -1,0 +1,11 @@
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
+hello.nix.enable = true;
