@@ -1,14 +1,6 @@
-Hello I'm alexzsk i make random stuff
+hi, i'm alexzsk
 
-i am currently learning some zig
+[alexzsk.github.io](https://alexzsk.github.io)
 
-My Own Personal Website
-
-[alexzsk.github.nix](https://alexzsk.github.io)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexzsk&show_icons=true&locale=en&layout=compact" alt="jacobi090" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexzsk&show_icons=true&locale=en" alt="jacobi090" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexzsk&" alt="alexzsk" /></p>
+i am currently learning zig cuz imma make basedfetch in zig
+and also i am learning crystal also
