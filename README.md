@@ -1,5 +1,8 @@
-| | | X
-\ \ | X
+`Haii, im alex an boy who enjoys coding and making wacky things`
+
+`im a nixos user`
+
+Checkout my Site: https://alexzsk.github.io
 <!--END_SECTION:info-->
 
 <br />
