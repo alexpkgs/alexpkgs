@@ -1,8 +1,6 @@
-Hi, im alex i love doing wacky things lmao
-im a nixos user
-and a nixxer
-
-
+| /  
+| \  
+___________________________________________
 <!--END_SECTION:info-->
 
 <br />
