@@ -1,2 +1,2 @@
-![Stats](https://readme-stats-git-main-atmois-projects.vercel.app/api?username=alexpkgs&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide=stars)
+![Langs](https://readme-stats-git-main-atmois-projects.vercel.app/api/top-langs/?username=alexpkgs&count_weight=0.5&exclude_repo=readme-stats,OldWebsite&theme=dark&layout=pie)
 
